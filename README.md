@@ -21,3 +21,7 @@ Fourth edition
 David J. Barnes and Michael Kolling
 
 Pearson Education, 2008
+
+---
+
+Comments: Getter and setter methods were not being used were removed just for code cleanup.
