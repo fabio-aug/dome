@@ -8,9 +8,9 @@ An application focused on studying the concepts of POO, specifically the use of 
 
 This project references material from chapter 9 of the book
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Fourth edition
-   David J. Barnes and Michael Kolling
-   Pearson Education, 2008
+   Objects First with Java - A Practical Introduction using BlueJ <br />
+   Fourth edition <br />
+   David J. Barnes and Michael Kolling <br />
+   Pearson Education, 2008 <br />
 
 A system for storing information about various types of media.
