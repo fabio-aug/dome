@@ -4,7 +4,7 @@ A system for storing information about various types of media. <br />
 PT-BR: Um sistema para armazenar informações sobre diversos tipos de mídia.
 
 Project: dome <br />
-Authors: Fábio Augusto Araújo Santos
+Authors: [Fábio Augusto Araújo Santos](https://github.com/fabio-aug)
 
 An application focused on studying the concepts of POO, specifically the use of inheritance and polymorphism, high cohesion and low coupling.
 
@@ -24,4 +24,9 @@ Pearson Education, 2008
 
 ---
 
-Comments: Getter and setter methods were not being used were removed just for code cleanup.
+Comments:
+- Getter and setter methods were not being used were removed just for code cleanup.
+
+
+###### Sorry for my bad English, I am still learning.
+#### Thank you for your attention.
